@@ -34,8 +34,8 @@ $(document).ready(function () {
             p[3].setAttribute("style", "width:70%; transition:2.5s all;");
             p[4].setAttribute("style", "width:65%; transition:3s all;");
             p[5].setAttribute("style", "width:60%; transition:3.5s all;");
-            p[6].setAttribute("style", "width:30%; transition:4s all;")
-            p[7].setAttribute("style", "width:20%; transition:4s all;")
+            p[6].setAttribute("style", "width:30%; transition:4s all;");
+            p[7].setAttribute("style", "width:20%; transition:4s all;");
             p[8].setAttribute("style", "width:20%; transition:5s all;");
         },
         offset: '90%'
