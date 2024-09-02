@@ -31,10 +31,10 @@ $(document).ready(function () {
             p[0].setAttribute("style", "width:95%; transition:1s all;");
             p[1].setAttribute("style", "width:60%; transition:1.5s all;");
             p[2].setAttribute("style", "width:60%; transition:2s all;");
-            p[3].setAttribute("style", "width:50%; transition:2.5s all;");
+            p[3].setAttribute("style", "width:70%; transition:2.5s all;");
             p[4].setAttribute("style", "width:65%; transition:3s all;");
-            p[5].setAttribute("style", "width:20%; transition:3.5s all;");
-            p[6].setAttribute("style", "width:5%; transition:4s all;");
+            p[5].setAttribute("style", "width:60%; transition:3.5s all;");
+            p[6].setAttribute("style", "width:30%; transition:4s all;");
 
         },
         offset: '90%'
